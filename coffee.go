@@ -1,6 +1,6 @@
 package coffee
 
-// 1.1.0-percolated
+// 1.1.0-cappuccino
 // 1.2.0-cappuccino
 // 1.3.0-espresso
 // 1.4.0-soymilk
@@ -9,5 +9,5 @@ package coffee
 
 // Cup is a unit of coffee.
 func Cup() string {
-	return "percolated"
+	return "cappuccino"
 }
