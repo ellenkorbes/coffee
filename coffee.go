@@ -9,5 +9,5 @@ package coffee
 
 // Cup is a unit of coffee.
 func Cup() string {
-	return "soymilk"
+	return "decaf"
 }
